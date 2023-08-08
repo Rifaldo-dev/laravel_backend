@@ -1,2 +1,8 @@
 tambahkan controllefa-rotate-180
 C:\laragon\www\rifaldo>php artisan make:controller Backend\DashboardController
+
+
+push github
+git add .
+git commit -m "value"
+git push
