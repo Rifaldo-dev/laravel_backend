@@ -6,3 +6,6 @@ push github
 git add .
 git commit -m "value"
 git push
+
+atasi install breeze
+ composer update
