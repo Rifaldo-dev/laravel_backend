@@ -9,3 +9,6 @@ git push
 
 atasi install breeze
  composer update
+
+install breeze 
+ php artisan breeze:install blade
